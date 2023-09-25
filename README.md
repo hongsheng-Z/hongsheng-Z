@@ -2,7 +2,7 @@
 - 👀 I’m interested in Compute Vision/Object Tracking ...
 - 🌱 I’m currently learning 3D video process
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hsz_181811@163.com
+- 📫 How to reach me hszheng@whu.edu.cn or hsz_181811@163.com
 
 <!---
 hongsheng-Z/hongsheng-Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
